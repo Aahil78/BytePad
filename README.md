@@ -5,3 +5,4 @@ I decided to make this as I found it very inconvinient to keep changing apps or 
 
 ## Images
 
+For some reason I cant upload te images in the readme, I'll add them in the images/ folder instead
